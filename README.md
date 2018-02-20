@@ -1,2 +1,4 @@
 # test-hello
-just test
+<?php
+Hello Wordl
+?>
