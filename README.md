@@ -1,4 +1,4 @@
 # test-hello
 <?php
-Hello Wordl
+echo 'Hello World';
 ?>
